@@ -1,13 +1,17 @@
-- National Scholarship of Graduate Student, 2024.
+- 金牌，中国大学生程序设计竞赛全国邀请赛（东北），2025.
 
-- First-prize Scholarship of CUMT, 2024.
+- 国家三等奖，第十五届蓝桥杯全国软件和信息技术专业人才大赛Java组, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+- 江西省一等奖，第十四届蓝桥杯全国软件和信息技术专业人才大赛C/C＋＋组, 2023.
 
-- Freshman Scholarship of CUMT, 2022.
+- 江西省一等奖，高教社杯全国大学生数学建模大赛，2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 江西省一等奖，团体程序设计天梯赛，2023.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- 国家二等奖，全国大学生英语竞赛，2025.
 
-- First-prize Scholarship of CUMT, 2019.
+- 校铜，第十四届“挑战杯”全国大学生系列科技学术竞赛，2024.
+  
+- 校优胜，首届计算机创新设计大赛算法设计赛道，2023.
+  
+- 院一等奖，江西省信息技术知识竞赛，2023
